@@ -35,7 +35,7 @@ The Sales KPI Dashboard is designed to analyze overall sales performance, profit
 
 ## 📸 Dashboard Screenshot
 
-![Sales KPI Dashboard](images/Sales-KPI-Dashboard.png)
+![Sales KPI Dashboard](https://github.com/InnamaAkhtar/Sales-KPI-Dashboard-Power-BI/blob/main/Image..png)
 
 ## 🔍 Key Insights
 - Analyzed total sales, gross sales, and overall profitability.
